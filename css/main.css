@@ -1,0 +1,159 @@
+#index1 {
+  position: relative;
+  width: 850px;
+  border-bottom: 2px solid #21252a;
+  margin: 0 auto;
+}
+#index1 h1 {
+  font-size: 40px;
+  padding-top: 70px;
+}
+#index1 p {
+  color: #21252a;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+#index1 .e_t {
+  color: #878298;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+#index1 .e_ts {
+  color: #21252a;
+  padding-left: 24px;
+}
+
+#text_box {
+  margin: 120px 0 0 0;
+  padding-bottom: 60px;
+  width: 850px;
+}
+#text_box p {
+  font-size: 17px;
+  font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
+  font-weight: 500;
+  line-height: 30px;
+}
+
+#ps_img {
+  width: 250px;
+  height: 250px;
+  border-radius: 140px 10px 140px 140px;
+  position: absolute;
+  top: 50px;
+  left: 600px;
+}
+#ps_img img {
+  width: 250px;
+  height: 250px;
+  border-radius: 140px 140px 140px 140px;
+}
+
+#index2 {
+  width: 850px;
+  margin: 0 auto;
+  border-bottom: 2px solid #21252a;
+}
+#index2 h3 {
+  margin: 40px 0 40px 0;
+}
+#index2 p {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+
+#index3 {
+  width: 850px;
+  margin: 0 auto;
+  border-bottom: 2px solid #21252a;
+}
+#index3 p {
+  color: #878E98;
+  font-size: 14px;
+}
+
+#b3 {
+  margin-bottom: 40px;
+}
+
+#index4 {
+  width: 850px;
+  margin: 0 auto;
+  border-bottom: 2px solid #21252a;
+}
+#index4 h4 {
+  width: 850px;
+  font-size: 18px;
+}
+#index4 p {
+  color: #878E98;
+  font-size: 14px;
+}
+
+.bor {
+  border-bottom: 2px solid #9a9a9a;
+  padding-bottom: 15px;
+}
+
+#b4 {
+  margin-bottom: 50px;
+}
+
+#index5 {
+  width: 850px;
+  margin: 0 auto;
+  border-bottom: 2px solid #21252a;
+}
+#index5 ul {
+  margin-bottom: 40px;
+}
+#index5 p {
+  margin-bottom: 50px;
+  line-height: 27px;
+}
+
+#index6 {
+  width: 850px;
+  margin: 0 auto;
+  padding: 0 0 80px 0;
+}
+#index6 p {
+  width: 770px;
+  background-color: #f8f9fa;
+  border: 1px solid #eaecee;
+  border-radius: 6px;
+  height: 25px;
+  padding: 15px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#index6 p a {
+  color: black;
+  font-size: 18px;
+}
+#index6 p img {
+  width: 20px;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background: #ddd;
+}
+
+#wrap {
+  width: 1000px;
+  height: auto;
+  background-color: #fff;
+  margin: 0 auto;
+  border-radius: 6px;
+  padding: 0 40px 20px 40px;
+}
+
+* {
+  font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
+}

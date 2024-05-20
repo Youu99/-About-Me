@@ -1,0 +1,56 @@
+#index1 {
+  position: relative;
+  width: 850px;
+  border-bottom: 2px solid #21252a;
+  margin: 0 auto;
+
+  h1 {
+    font-size: 40px;
+    padding-top: 70px;
+  }
+
+  p {
+    color: #21252a;
+    font-weight: 500;
+    font-size: 24px;
+  }
+}
+
+#index1 .e_t {
+  color: #878298;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+#index1 .e_ts {
+  color: #21252a;
+  padding-left: 24px;
+}
+
+#text_box {
+  margin: 120px 0 0 0;
+  padding-bottom: 60px;
+  width: 850px;
+  
+  p {
+    font-size: 17px;
+    font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+    font-weight: 500;
+    line-height: 30px;
+  }
+}
+
+#ps_img{
+  width: 250px;
+  height: 250px;
+  border-radius: 140px 10px 140px 140px;
+  position: absolute;
+  top: 50px;
+  left: 600px;
+
+  img{
+    width: 250px;
+    height: 250px;
+    border-radius: 140px 140px 140px 140px;
+  }
+}
